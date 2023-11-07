@@ -1,3 +1,4 @@
 *.csv
 *.pth
 data
+training_data
