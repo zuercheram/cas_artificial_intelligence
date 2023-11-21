@@ -1,6 +1,4 @@
 *.csv
 *.pth
 .DS_Store
-*MNIST*
-*CIFAR*
 notebooks/*/data
