@@ -1,0 +1,4 @@
+*.csv
+*.pth
+.DS_Store
+notebooks/*/data
